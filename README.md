@@ -23,7 +23,7 @@ The actual applications include
 3. main.py (Standalone desktop application. The 'AstroSat_final_table1.csv' needs to be in the same directory as the .py file. The coordinates, RA and Dec on the screen are in degrees, and 0 degrees and 360 are the same on the map)
 4. Documentation for the Standalone Application (1).pdf (documentation for the same)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The analysis files (for analysis of X ray data from Chandra) include:
+The video demos:
 1. CatalogVisualisationAndSearchToolWebAppDemo.mp4 
 2. StandaloneAppDemo.mp4
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
