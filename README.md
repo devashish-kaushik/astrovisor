@@ -21,10 +21,9 @@ The actual applications include
 1. CatalogVisualisationAndSearchTool.ipynb (can be launched in a web browser with steps described in attached documentation 'Documentation-CatalogVisualisationAndSearchTool.pdf')
 2. Documentation-CatalogVisualisationAndSearchTool.pdf (The documentation and instructions for usage for above)
 3. main.py (Standalone desktop application. The 'AstroSat_final_table1.csv' needs to be in the same directory as the .py file. The coordinates, RA and Dec on the screen are in degrees, and 0 degrees and 360 are the same on the map)
-4. <Documentation for the same>
+4. Documentation for the Standalone Application (1).pdf (documentation for the same)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The analysis files (for analysis of X ray data from Chandra) include:
-1. ChandraAnalysis.ipynb (Analysis of observation id 7302 from Chandra X Ray observatory)
-2. <Devashish>
-3. <Analysis report>
+1. CatalogVisualisationAndSearchToolWebAppDemo.mp4 
+2. StandaloneAppDemo.mp4
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
